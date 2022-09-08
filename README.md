@@ -1,16 +1,31 @@
 # webview_in_flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Menambahkan widget WebView ke Aplikasi Flutter
+![1](images/1.png)
+Menggunakan WebViewController
+![2](images/2.png)
+Menambahkan tombol menu ke AppBar
+![3](images/3.png)
+Mengevaluasi JavaScript
+![4-1](images/4-1.png)
+![4-2](images/4-2.png)
+Menggunakan Saluran JavaScript
+![5](images/5.png)
+Mengelola Cookie
+![6](images/6.png)
+onClearCookies
+![6-1](images/6-1.png)
+setCookie
+![6-2](images/6-2.png)
+removeCookie
+![6-3](images/6-3.png)
+listCookie
+![6-4](images/6-4.png)
+Memuat aset, file, dan string HTML Flutter di WebView
+![7](images/7.png)
+Load Flutter Asset
+![7-1](images/7-1.png)
+Load HTML String
+![7-2](images/7-2.png)
+Load Local File
+![7-3](images/7-3.png)
